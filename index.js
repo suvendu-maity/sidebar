@@ -1,1 +1,2 @@
-alert('This is a sidebar click ok to see.')
+alert('This is a sidebar example site click on the sidebar icon to see.')
+
