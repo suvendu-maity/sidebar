@@ -1,1 +1,1 @@
-alert('This bis a sidebar')
+alert('This is a sidebar click ok to see.')
